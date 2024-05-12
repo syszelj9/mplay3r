@@ -10,15 +10,16 @@ _____________________
 KEYBINDS AND CONTROL
 ---------------------
 1. To pause the music, press `s`. Yes, I know it says stopped but it actually just pauses it.
+2. To show the progress bar, press `v`. Along with showing you the song progress, it also shows you the bitrate.
     ________
     Looping
     --------
     - To create a loop point A, press `o` once, then press it again to create the second loop point and that loop will play.
     - To cancel the loop and continue playing the song as normal, press `o` a third time.
 
-2. Pressing `L` shows you the current playlist/folder you are in, and the current track that is playing.
-3. If the program has nothing to play, it will just exit.
-4. Pressing the keys on the numpad or number row (123...0) will navigate through parts of the song.
+3. Pressing `L` shows you the current playlist/folder you are in, and the current track that is playing.
+4. If the program has nothing to play, it will just exit.
+5. Pressing the keys on the numpad or number row (123...0) will navigate through parts of the song.
 
 ______________
 COMMON ERRORS
