@@ -18,6 +18,7 @@ KEYBINDS AND CONTROL
 
 2. Pressing `L` shows you the current playlist/folder you are in, and the current track that is playing.
 3. If the program has nothing to play, it will just exit.
+4. Pressing the keys on the numpad or number row (123...0) will navigate through parts of the song.
 
 ______________
 COMMON ERRORS
